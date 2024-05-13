@@ -1,0 +1,6 @@
+@use "./home/index" as p-home;
+@use "./input/index" as p-input;
+@use "./confirm/index" as p-confirm;
+@use "./send/index" as p-send;
+@use "./completed/index" as p-completed;
+@use "./error/index" as p-error;

@@ -1,0 +1,56 @@
+body {
+    background-color: #FFF;
+    line-height: 1.5;
+    font-family: 
+        "M PLUS 1p", 
+        "Helvetica Neue", 
+        Arial, 
+        "Hiragino Kaku Gothic ProN", 
+        "Hiragino Sans", 
+        Meiryo, 
+        sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #111;
+}
+
+a,
+label,
+img,
+button,
+textarea {
+    display: block;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+h1,
+h2,
+h3, 
+h4,
+h5,
+h6 {
+    font-weight: 500;
+}
+
+p > a {
+    display: inline;
+    color: #0000FF;
+}
+
+dt {
+    font-weight: 500;
+}
+
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button {
+    cursor: pointer;
+}
+
+::placeholder {
+    color: #c5c5c5;
+}
